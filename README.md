@@ -13,8 +13,7 @@ When I'm not coding, I find time to immerse myself in video games and learning n
 ### Currently
 <img align="right" alt="GIF" src="https://github.com/jangcla/github-profile/blob/main/profile-photos/coding-sneakers.gif?raw=true" width="450" height="300" />
 
-- 🖥  Working on:  <a target="_blank" href="https://animezon.herokuapp.com/">Animezon
-</a>[ Animezon ](https://animezon.herokuapp.com/) ( My full-stack project )
+- 🖥  Working on: [ Animezon ](https://animezon.herokuapp.com/) ( My full-stack project )
 - 📚  Learning:  DSN & Video Game Development
 - 🗓  Year Goals:  Commit more on github and Get Hired!
 - ⚡️ Fun Fact:  I love learning, coding, and video games!
@@ -23,13 +22,13 @@ When I'm not coding, I find time to immerse myself in video games and learning n
 <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="20px">    johnrangcla@gmail.com
 
 ### Connect with me
-<a target="_blank" href="https://www.linkedin.com/in/john-angcla-1418a9213/">
+<a href="https://www.linkedin.com/in/john-angcla-1418a9213/">
   <img align="left" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a target="_blank" href="https://www.instagram.com/shinobvvv/">
+<a href="https://www.instagram.com/shinobvvv/">
   <img align="left" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
 </a>
-<a target="_blank" href="https://animezon.herokuapp.com/">
+<a href="https://animezon.herokuapp.com/">
   <img align="left" width="40px" src="https://icon-library.com/images/icon-website/icon-website-0.jpg" />
 </a>
 
