@@ -21,3 +21,46 @@ When I'm not coding, I find time to immerse myself in video games and learning n
 ### Contact me
 <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="20px">    johnrangcla@gmail.com
 
+### Connect with me
+<a href="https://www.linkedin.com/in/john-angcla-1418a9213/">
+  <img align="left" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/shinobvvv/">
+  <img align="left" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
+</a>
+<a href="https://animezon.herokuapp.com/">
+  <img align="left" width="40px" src="https://icon-library.com/images/icon-website/icon-website-0.jpg" />
+</a>
+
+<br />
+<br />
+
+<br />
+
+### Coding Languages & Tools
+  
+  <img align="left" alt="Ruby" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/ruby-47-1175102.png" />
+
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+
+<img align="left" alt="React" width="47px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+<img align="left" alt="Redux" height="40px" src="https://raw.githubusercontent.com/jangcla/github-profile/3b4d2cde84319e2b6dc1b0a042ba2fb9199a6a35/profile-photos/redux-icon.svg" />
+
+<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
+<img align="left" alt="MongoDB" height="30px" src="https://github.com/jangcla/github-profile/blob/main/profile-photos/mgdb-icon.png?raw=true" />
+
+<img align='left' alt='heroku' width='40px' src="https://github.com/jangcla/github-profile/blob/main/profile-photos/heroku-icon.png?raw=true" />
+
+<img align='left' alt='ruby-rails' height='40px' src="https://github.com/jangcla/github-profile/blob/main/profile-photos/ruby-on-rails-icon.png?raw=true" />
+
+<img align='left' alt='AWS' height='40px' src="https://github.com/jangcla/github-profile/blob/main/profile-photos/aws.png?raw=true" />
+ 
+ <br />
+ <br />
+
