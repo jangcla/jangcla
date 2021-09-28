@@ -64,3 +64,8 @@ When I'm not coding, I find time to immerse myself in video games and learning n
  <br />
  <br />
 
+### Github Status
+
+<img align="left" height='150px' width='400px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangcla&layout=compact&theme=midnight-purple" />
+
+<img align="right" height='175px' width='400px' src="https://github-readme-stats.vercel.app/api?username=jangcla&show_icons=true&theme=midnight-purple"/>
