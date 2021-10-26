@@ -51,15 +51,15 @@ When I'm not coding, I find time to immerse myself in video games and learning n
 
 <img align="left" alt="Redux" height="40px" src="https://raw.githubusercontent.com/jangcla/github-profile/3b4d2cde84319e2b6dc1b0a042ba2fb9199a6a35/profile-photos/redux-icon.svg" />
 
-<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 <img align="left" alt="MongoDB" height="30px" src="https://github.com/jangcla/github-profile/blob/main/profile-photos/mgdb-icon.png?raw=true" />
 
-<img align='left' alt='heroku' width='40px' src="https://github.com/jangcla/github-profile/blob/main/profile-photos/heroku-icon.png?raw=true" />
+<img align='left' alt='heroku' width='35px' src="https://github.com/jangcla/github-profile/blob/main/profile-photos/heroku-icon.png?raw=true" />
 
-<img align='left' alt='ruby-rails' height='40px' src="https://github.com/jangcla/github-profile/blob/main/profile-photos/ruby-on-rails-icon.png?raw=true" />
+<img align='left' alt='ruby-rails' height='35px' src="https://github.com/jangcla/github-profile/blob/main/profile-photos/ruby-on-rails-icon.png?raw=true" />
 
-<img align='left' alt='AWS' height='40px' src="https://github.com/jangcla/github-profile/blob/main/profile-photos/aws.png?raw=true" />
+<img align='left' alt='AWS' height='35px' src="https://github.com/jangcla/github-profile/blob/main/profile-photos/aws.png?raw=true" />
  
  <br />
  <br />
