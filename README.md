@@ -22,13 +22,13 @@ When I'm not coding, I find time to immerse myself in video games and learning n
 <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="20px">    johnrangcla@gmail.com
 
 ### Connect with me
-<a href="https://www.linkedin.com/in/john-angcla-1418a9213/" target="_blank">
+<a href="https://www.linkedin.com/in/john-angcla-1418a9213/" target=_blank>
   <img align="left" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/shinobvvv/" target="_blank">
+<a href="https://www.instagram.com/shinobvvv/" target=_blank>
   <img align="left" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
 </a>
-<a href="https://animezon.herokuapp.com/" target="_blank">
+<a href="https://animezon.herokuapp.com/" target=_blank>
   <img align="left" width="40px" src="https://icon-library.com/images/icon-website/icon-website-0.jpg" />
 </a>
 
