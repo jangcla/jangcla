@@ -13,7 +13,7 @@ When I'm not coding, I find time to immerse myself in video games and learning n
 ### Currently
 <img align="right" alt="GIF" src="https://github.com/jangcla/github-profile/blob/main/profile-photos/coding-sneakers.gif?raw=true" width="450" height="300" />
 
-- 🖥  Working on: [ Animezon ](https://animezon.herokuapp.com/) ( My full-stack project )
+- 🖥  Working on: [ Animezon ](https://animezon.herokuapp.com/) ( Refining and adding more MVPs )
 - 📚  Learning:  DSN & Video Game Development
 - 🗓  Year Goals:  Commit more on github and Get Hired!
 - ⚡️ Fun Fact:  I love learning, coding, and video games!
@@ -28,7 +28,7 @@ When I'm not coding, I find time to immerse myself in video games and learning n
 <a href="https://www.instagram.com/shinobvvv/" target=_blank>
   <img align="left" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
 </a>
-<a href="https://animezon.herokuapp.com/" target=_blank>
+<a href="https://jangcla.github.io/portfolio/" target=_blank>
   <img align="left" width="40px" src="https://icon-library.com/images/icon-website/icon-website-0.jpg" />
 </a>
 
