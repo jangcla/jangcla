@@ -29,7 +29,7 @@ When I'm not coding, I find time to immerse myself in video games and learning n
   <img align="left" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
 </a>
 <a href="https://jangcla.github.io/portfolio/" target=_blank>
-  <img align="left" width="40px" src="https://icon-library.com/images/icon-website/icon-website-0.jpg" />
+  <img align="left" width="40px" src="https://github.com/jangcla/portfolio/blob/main/assets/img/ja-logo.png?raw=true" />
 </a>
 
 <br />
