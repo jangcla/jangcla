@@ -13,8 +13,8 @@ When I'm not coding, I find time to immerse myself in video games and learning n
 ### Currently
 <img align="right" alt="GIF" src="https://github.com/jangcla/github-profile/blob/main/profile-photos/coding-sneakers.gif?raw=true" width="450" height="300" />
 
-- 🖥  Working on: [ Animezon ](https://animezon.herokuapp.com/) ( Refining and adding more MVPs )
-- 📚  Learning:  DSN & Video Game Development
+- 🖥  Working on: Practicing DSA & Interview materials
+- 📚  Learning:  Video Game Development
 - 🗓  Year Goals:  Commit more on github and Get Hired!
 - ⚡️ Fun Fact:  I love learning, coding, and video games!
 
