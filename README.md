@@ -28,8 +28,11 @@ When I'm not coding, I find time to immerse myself in video games and learning n
 <a href="https://www.instagram.com/shinobvvv/" target=_blank>
   <img align="left" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
 </a>
-<a href="https://jangcla.github.io/portfolio/" target=_blank>
+<a href="https://johnangcla.com" target=_blank>
   <img align="left" width="40px" src="https://github.com/jangcla/portfolio/blob/main/assets/img/ja-logo.png?raw=true" />
+</a>
+<a href="https://angel.co/u/john-angcla" target=_blank>
+  <img align="left" width="40px" src="https://w7.pngwing.com/pngs/776/141/png-transparent-computer-icons-angellist-font-others-miscellaneous-hand-logo.png" />
 </a>
 
 <br />
