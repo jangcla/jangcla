@@ -26,7 +26,7 @@ When I'm not coding, I find time to immerse myself in video games and learning n
   <img align="left" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://angel.co/u/john-angcla" target=_blank>
-  <img align="left" width="45px" src="https://www.shareicon.net/data/2016/07/08/117681_angellist_512x512.png" />
+  <img align="left" width="44px" src="https://www.shareicon.net/data/2016/07/08/117681_angellist_512x512.png" />
 </a>
 <a href="https://www.instagram.com/shinobvvv/" target=_blank>
   <img align="left" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
