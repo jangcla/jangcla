@@ -18,8 +18,12 @@ When I'm not coding, I find time to immerse myself in video games and learning n
 - 🗓  Year Goals:  Commit more on github and Get Hired!
 - ⚡️ Fun Fact:  I love learning, coding, and video games!
 
-### Contact me
+### Contact & Resume
 <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="20px">    johnrangcla@gmail.com
+
+<br />
+<br />
+
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/john-angcla-1418a9213/" target=_blank>
