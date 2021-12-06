@@ -21,7 +21,7 @@ When I'm not coding, I find time to immerse myself in video games and learning n
 ### Contact & Resume
 <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="20px">    johnrangcla@gmail.com
 
-<img src ="https://png.pngtree.com/png-vector/20190411/ourlarge/pngtree-vector-resume-icon-png-image_927259.jpg" width="40px"> <a href="https://docs.google.com/document/d/1gsPWUYLAyBx79eXm9SK9xrfxTcS_qDe-9x4ZtyqMmXc/edit?usp=sharing" target=_blank>
+<img src ="https://png.pngtree.com/png-vector/20190411/ourlarge/pngtree-vector-resume-icon-png-image_927259.jpg" width="35px"> <a href="https://docs.google.com/document/d/1gsPWUYLAyBx79eXm9SK9xrfxTcS_qDe-9x4ZtyqMmXc/edit?usp=sharing" target=_blank>
   Resume preview
 </a>
 
