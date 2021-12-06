@@ -23,7 +23,7 @@ When I'm not coding, I find time to immerse myself in video games and learning n
 
 <br />
 <br />
-
+<img src ="https://png.pngtree.com/png-vector/20190411/ourlarge/pngtree-vector-resume-icon-png-image_927259.jpg" width="40px"> 
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/john-angcla-1418a9213/" target=_blank>
