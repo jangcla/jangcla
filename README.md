@@ -13,7 +13,7 @@ When I'm not coding, I find time to immerse myself in video games and learning n
 ### Currently
 <img align="right" alt="GIF" src="https://github.com/jangcla/github-profile/blob/main/profile-photos/coding-sneakers.gif?raw=true" width="450" height="300" />
 
-- 🖥  Working on: Refining Projects
+- 🖥  Working on: Refining Projects (Maybe adding more MVPs)
 - 📚  Learning:  DSA and interview materials
 - 🗓  Year Goals:  Commit more on github and Get Hired!
 - ⚡️ Fun Fact:  I love learning, coding, and video games!
