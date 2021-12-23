@@ -24,7 +24,6 @@ When I'm not coding, I find time to immerse myself in video games and learning n
 <img src ="https://png.pngtree.com/png-vector/20190411/ourlarge/pngtree-vector-resume-icon-png-image_927259.jpg" width="35px"> <a href="https://docs.google.com/document/d/1gsPWUYLAyBx79eXm9SK9xrfxTcS_qDe-9x4ZtyqMmXc/edit?usp=sharing" target=_blank>
   Resume preview
 </a>
-
 ### Connect with me
 <a href="https://www.linkedin.com/in/john-angcla-1418a9213/" target=_blank>
   <img align="left" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
