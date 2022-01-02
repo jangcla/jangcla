@@ -1,7 +1,6 @@
 <h1 align="center"><img src="https://github.com/jangcla/github-profile/blob/main/profile-photos/image_processing20200616-8256-18ebhpe.gif?raw=true" width="70px"> Hey there, I'm John</h1>
 
 <img src="https://komarev.com/ghpvc/?username=jangcla">
-
 ### About me
 
 I am a Software Engineer with experience building web applications using React, Redux, Javascript, Ruby on Rails, AWS, Node.js, Express.js, MongoDB, and SQL.
