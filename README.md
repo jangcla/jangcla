@@ -15,7 +15,7 @@ When I'm not coding, I find time to immerse myself in video games and learning n
 
 - 🖥  Working on: Refining Projects (Adding more functions)
 - 📚  Learning:  DSA and interview materials
-- 🗓  Year Goals:  Get Hired!
+- 🗓  Year Goals: Better myself everyday(small improvements) -> Get Hired!
 - ⚡️ Fun Fact:  I love learning, coding, and video games!
 
 ### Contact & Resume
