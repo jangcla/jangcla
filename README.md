@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/jangcla/github-profile/blob/main/profile-photos/image_processing20200616-8256-18ebhpe.gif?raw=true" width="70px"> Hey there, I'm John</h1>
+<h1 align="start"><img src="https://github.com/jangcla/github-profile/blob/main/profile-photos/image_processing20200616-8256-18ebhpe.gif?raw=true" height="70px" width="70px"> Hey there, I'm John</h1>
 
 <img src="https://komarev.com/ghpvc/?username=jangcla">
 
