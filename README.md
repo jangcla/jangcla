@@ -13,9 +13,9 @@ When I'm not coding, I find time to immerse myself in video games and learning n
 ### Currently
 <img align="right" alt="GIF" src="https://github.com/jangcla/github-profile/blob/main/profile-photos/coding-sneakers.gif?raw=true" width="450" height="300" />
 
-- 🖥  Working on: Learning how to make a discord bot
-- 📚  Learning:  Practicing my problem solving skills ( DS&A )
-- 🗓  Year Goals: Better myself everyday(small improvements) -> Get Hired!
+- 🖥  Working on: Improving problem solving skills
+- 📚  Learning:  Self love and patience
+- 🗓  Year Goals: Get Hired!
 - ⚡️ Fun Fact:  I love learning, coding, and video games!
 
 ### Contact & Resume
