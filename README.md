@@ -16,7 +16,7 @@ When I'm not coding, I find time to immerse myself in video games and learning n
 - 🖥  Working on: Improving problem solving skills
 - 📚  Learning:  Self love and patience
 - 🗓  Year Goals: Get Hired!
-- ⚡️ Fun Fact:  I love learning, coding, and video games!
+- ⚡️ Fun Fact:  I built over 30 computers!
 
 ### Contact & Resume
 <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="20px">    johnrangcla@gmail.com
