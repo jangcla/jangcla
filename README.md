@@ -1,6 +1,4 @@
-<h1 align="start"><img src="https://github.com/jangcla/github-profile/blob/main/profile-photos/image_processing20200616-8256-18ebhpe.gif?raw=true" height="70px" width="70px"> Hey there, I'm John</h1>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9A3FFF&background=6DFFF100&center=true&vCenter=true&lines=Welcome+to+my+Github!;My+name+is+John;I+am+a+software+engineer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=8039F7&vCenter=true&height=70&lines=Welcome+to+my+Github!;My+name+is+John;I+am+a+software+engineer)](https://git.io/typing-svg)
 
 ### About me
 
