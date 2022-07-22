@@ -8,7 +8,7 @@ I am a Software Engineer with experience building web applications using React, 
 
 I have recently finished my curriculum at APP Academy, a highly selective and immersive Software Engineering Bootcamp in San Francisco, where I spent 100 hour weeks learning and developing my skills around technologies needed in the workforce.
 
-When I'm not coding, I find time to immerse myself in modding and building computers and learning new skills 7 technologies to improve myself. I've found passion in coding and I'm currently trying to learn video game development outside of the curriculum I learned from App Academy.
+When I'm not coding, I find time to immerse myself in modding & building computers, volunteering in carehomes, and learning new skills & technologies to improve myself. I've found passion in coding and I'm currently trying to learn video game development outside of the curriculum I learned from App Academy.
 
 ### Currently
 <img align="right" alt="GIF" src="https://github.com/jangcla/github-profile/blob/main/profile-photos/coding-sneakers.gif?raw=true" width="450" height="300" />
