@@ -13,7 +13,7 @@ When I'm not coding, I find time to immerse myself in modding & building compute
 
 - 🖥  Working on: Improving problem solving skills
 - 📚  Learning:  Self love and patience
-- 🗓  Year Goals: Get Hired!
+- 🗓  Year Goals: Learn new Stacks
 - ⚡️ Fun Fact:  I built & moded over 30 computers!
 
 ### Contact & Resume
