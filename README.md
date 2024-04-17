@@ -30,7 +30,7 @@ When I'm not coding, I find time to immerse myself in modding & building compute
 <a href="https://angel.co/u/john-angcla" target=_blank>
   <img align="left" width="44px" src="https://www.shareicon.net/data/2016/07/08/117681_angellist_512x512.png" />
 </a>
-<a href="https://johnangcla.com" target=_blank>
+<a href="https://johnrangcla.com" target=_blank>
   <img align="left" width="40px" src="https://github.com/jangcla/portfolio/blob/main/assets/img/ja-logo.png?raw=true" />
 </a>
 
