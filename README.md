@@ -24,8 +24,8 @@ When I'm not coding, I find time to immerse myself in modding & building compute
 </a>
 
 ### Connect with me
-<a href="https://www.linkedin.com/in/john-angcla-1418a9213/" target=_blank>
-  <img align="left" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="www.linkedin.com/in/johnangcla" target=_blank>
+  <img align="left" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" />
 </a>
 <a href="https://angel.co/u/john-angcla" target=_blank>
   <img align="left" width="44px" src="https://www.shareicon.net/data/2016/07/08/117681_angellist_512x512.png" />
