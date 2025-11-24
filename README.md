@@ -68,8 +68,3 @@ When I'm not coding, I find time to immerse myself in modding & building compute
  <br />
  <br />
 
-### Github Status
-
-<img align="left" height='165px' width='390px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangcla&layout=compact&theme=midnight-purple" />
-
-<img align="right" height='175px' width='390px' src="https://github-readme-stats.vercel.app/api?username=jangcla&show_icons=true&theme=midnight-purple"/>
